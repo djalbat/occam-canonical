@@ -1,7 +1,7 @@
 {
   "name": "occam-canonical",
   "author": "James Smith",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT, Anti-996",
   "homepage": "https://github.com/djalbat/occam-canonical",
   "description": "Occam's Canonical language.",
